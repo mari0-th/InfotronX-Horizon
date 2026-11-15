@@ -13,7 +13,7 @@
 ![Three.js](https://img.shields.io/badge/3D-three.js-black)
 ![NASA data](https://img.shields.io/badge/data-NASA%20%C2%B7%20USGS-0b3d91)
 
-**[▶ Open Mars Atlas](https://mars-atlas-mu.vercel.app/)** · [Releases](https://github.com/mari0-th/InfotronX-Horizon/releases) · [Changelog](CHANGELOG.md) · [Credits](CREDITS.md) · [Report a bug](https://github.com/mari0-th/InfotronX-Horizon/issues/new?template=bug_report.md)
+  **[▶ Open Mars Atlas](https://mars-atlasv2.netlify.app/)** · [Releases](https://github.com/mari0-th/InfotronX-Horizon/releases) · [Changelog](CHANGELOG.md) · [Credits](CREDITS.md) · [Report a bug](https://github.com/mari0-th/InfotronX-Horizon/issues/new?template=bug_report.md)
 
 *Built by **InfotronX Horizon** for the NASA Space Apps Challenge 2026 · "Interplanetary Survival Guide: Martian Map"*
 
